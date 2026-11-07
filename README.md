@@ -147,40 +147,6 @@ Provides hospital-level insights through total admissions, total hospitals, aver
 - Created four interactive Power BI dashboard pages.
 - Analysed patient demographics, admissions, billing, and hospital operations.
 
-## 📁 Project Structure
-
-```text
-MediPulse-Healthcare-Admissions-Analytics-Dashboard/
-│
-├── README.md
-├── MediPulse_Healthcare_Admissions_Analytics_Dashboard.pbix
-│
-├── Dataset/
-│   ├── Healthcare_Patient_Admissions_Clean_Dataset.xlsx
-│   ├── Patient_Dataset_New.xlsx
-│   └── Hospital_Dataset_New.xlsx
-│
-├── Documentation/
-│   └── Healthcare_Patient_Admissions_Observation.pdf
-│
-└── images/
-    ├── dashboard-1-patient-admissions-overview.png
-    ├── dashboard-2-patient-hospital-analysis.png
-    ├── dashboard-3-patient-demographics-insights.png
-    └── dashboard-4-hospital-operations-insights.png
-```
-
-## 🎓 Learning Outcomes
-
-Through this project, I gained practical experience in:
-
-- Healthcare data exploration and cleaning.
-- Excel formulas and data validation.
-- Power Query transformations.
-- Data modelling and table relationships.
-- DAX calculations and measures.
-- Power BI visualisation and dashboard development.
-- Presenting meaningful data insights.
 
 ## 👨‍💻 Author
 
