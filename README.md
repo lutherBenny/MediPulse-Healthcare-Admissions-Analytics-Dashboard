@@ -10,19 +10,19 @@ MediPulse is a healthcare data analytics project developed to analyse patient ad
 
 ### Dashboard 1 – Patient Admissions Overview
 
-![Patient Admissions Overview](images/dashboard-1-patient-admissions-overview.png)
+![Patient Admissions Overview](dashboard-1-patient-admissions-overview.png)
 
 ### Dashboard 2 – Patient & Hospital Analysis
 
-![Patient & Hospital Analysis](images/dashboard-2-patient-hospital-analysis.png)
+![Patient & Hospital Analysis](dashboard-2-patient-hospital-analysis.png)
 
 ### Dashboard 3 – Patient Demographics & Insights
 
-![Patient Demographics & Insights](images/dashboard-3-patient-demographics-insights.png)
+![Patient Demographics & Insights](dashboard-3-patient-demographics-insights.png)
 
 ### Dashboard 4 – Hospital Operations & Patient Insights
 
-![Hospital Operations & Patient Insights](images/dashboard-4-hospital-operations-insights.png)
+![Hospital Operations & Patient Insights](dashboard-4-hospital-operations-insights.png)
 
 ---
 
